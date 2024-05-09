@@ -32,6 +32,6 @@ void AMovingPlatform::Tick(float DeltaTime)
 
 	SetActorLocation(LocalVector);
 
-	// ÇÃ·§Æû ¾ÕÀ¸·Î ÀÌµ¿
+	// í”Œë«í¼ ì•ìœ¼ë¡œ ì´ë™
 }
 
